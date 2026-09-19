@@ -1,0 +1,153 @@
+(ExpressProject "stm32l062"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[09/19/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\stm32l062.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "D:\PROJETS24\BOARDTESTL062\STM32L062.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tFootprint")
+    (BOM_Include_File "D:\PROJETS24\BOARDTESTL062\STM32L062.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    (Netlist_TAB "7")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "STM32L062.asc")
+    (OTHER_Netlist_File2 "STM32L062.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "orpads2k64.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\stm32l062.bom"
+      (Type "Report"))
+    (File ".\stm32l062.asc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName
+         "D:\PARTSWIN\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-SPST"
+      (FullPartName "SW KEY-SPST.Normal")
+      (LibraryName "\\VAULT1\ORCADS\CADS\LIBRARYES\LIB_ORCAD\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("RESISTOR VAR"
+      (FullPartName "RESISTOR VAR.Normal")
+      (LibraryName
+         "D:\PARTSWIN\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON2_2
+      (FullPartName "CON2_2.Normal")
+      (LibraryName "D:\PROJETS24\BOARDTESTL062\STM32L062.DSN")
+      (DeviceIndex "0"))
+    (NCP164C
+      (FullPartName "NCP164C.Normal")
+      (LibraryName "D:\PROJETS24\ORCADES\AN23X.OLB")
+      (DeviceIndex "0"))
+    (JUMPER3
+      (FullPartName "JUMPER3.Normal")
+      (LibraryName "\\VAULT1\ORCADS\CADS\LIBRARYES\LIB_ORCAD\LIBRARY_ANDRE.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName
+         "D:\PARTSWIN\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName
+         "D:\PARTSWIN\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName
+         "D:\PARTSWIN\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "D:\PARTSWIN\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName
+         "D:\PARTSWIN\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "D:\PARTSWIN\CADENCE\SPB_23.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (STM32L062K8T6all
+      (FullPartName "STM32L062K8T6all.Normal")
+      (LibraryName "D:\PROJETS24\ORCADES\AN23X.OLB")
+      (DeviceIndex "0"))
+    (STM32L062K8T6
+      (FullPartName "STM32L062K8T6B.Normal")
+      (LibraryName "D:\PROJETS24\ORCADES\AN23X.OLB")
+      (DeviceIndex "1"))
+    (STM32L052C8T6
+      (FullPartName "STM32L052C8T6A.Normal")
+      (LibraryName "D:\PROJETS24\ORCADES\AN23X.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\partsWIN\Cadence\SPB_23.1\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\stm32l062.dsn")
+      (Path "Design Resources" ".\stm32l062.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\stm32l062.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 888"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 929")
+        (Scroll "373 637")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\LYBRARYES\ANDRE\PROJETS\BOARDTESTL062\ST32L062\SCHEMA\STM32L062.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "User")
+  (ISPCBBASICLICENSE "false"))

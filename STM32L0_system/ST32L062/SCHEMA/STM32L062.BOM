@@ -1,0 +1,53 @@
+  Revised: Tuesday, September 24, 2024
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials      September 24,2024      9:40:58	Page1
+
+Item	Quantity	Reference	Footprint
+______________________________________________
+
+1	8	CR1,CR2,D3,CR3,CR4,CR5,	SOT23
+		CR6,CR7
+2	44	C1,R2,C2,C3,C4,C7,C8,R9,	0805
+		C9,R10,C10,R11,C11,R12,
+		C12,R13,C13,R14,C14,R15,
+		C15,R16,C16,R17,C18,C19,
+		R20,R21,C21,R22,C22,C23,
+		R24,C24,R25,C25,R26,R27,
+		R28,R29,R30,R32,R33,R34
+3	2	C5,C6	0603
+4	9	F1,D1,F2,D2,D4,C20,R23,	1206
+		C26,R31
+5	1	J1	MOLEX_SL_4P
+6	1	J2	CONN_USB_B1HSW6_OST
+7	1	J3	NORCOMP_182-037-213R531
+8	1	J4	CON3MOTION
+9	1	J5	MOLEX_SL_6P
+10	1	J6	CONN_1759017
+11	5	Push-Button1,	SWITCH-FSM
+		Push-Button2,
+		Push-Button3,
+		Push-Button4,
+		Push-Button5
+12	8	R1,R3,R4,R5,R6,R7,R8,R18	0402
+13	1	R19	TRIM_3296W-1-473LF
+14	1	U1	LQFP32_7X7X1P4
+15	1	U2	SO14
+16	1	U3	SO8
+17	1	U4	SO16
+18	1	U5	TSOP5
+19	1	U6	R78BXX
+20	1	U7	TSOP75438WTT
+21	1	Y1	XTAL_MU00525_NDK
+22	3	jmp1,jmp2,jmp3	JUMPER
+23	9	jump_PA1,jump_PA4,	JUMPER3
+		jump_PA5,jump_PA6,
+		jump_PA7,jump_PA8,
+		jump_PC14,jump_PC15,
+		jump_PA0
