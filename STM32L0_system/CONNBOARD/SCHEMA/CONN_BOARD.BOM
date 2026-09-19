@@ -1,0 +1,23 @@
+  Revised: Tuesday, September 24, 2024
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials      September 24,2024      14:34:55	Page1
+
+Item	Quantity	Reference	Footprint
+______________________________________________
+
+1	21	CR1,CR2,CR3,CR4,CR5,CR6,	SOT23
+		CR7,CR8,CR9,CR10,CR11,
+		CR12,CR13,CR14,CR15,CR16,
+		CR17,CR18,CR19,CR20,CR21
+2	2	J1,J6	CONRA_15_200
+3	2	J2,J5	CONRA_18_200
+4	1	J3	CONRA-9P-200
+5	1	J4	MOLEX_SL_3P
+6	1	J7	AMPHENOL_L717SDC37P1ACH4F
